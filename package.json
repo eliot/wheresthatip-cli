@@ -1,0 +1,38 @@
+{
+  "name": "wheresthatip",
+  "version": "1.0.0",
+  "description": "Look up IP address geolocation from the command line. Get IP, city, country, ISP, and coordinates instantly.",
+  "main": "lib/index.js",
+  "bin": {
+    "wheresthatip": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ip",
+    "ip-address",
+    "geolocation",
+    "ip-lookup",
+    "geoip",
+    "whois",
+    "my-ip",
+    "location",
+    "network",
+    "dns",
+    "cli"
+  ],
+  "author": "WheresThatIP.com",
+  "license": "MIT",
+  "homepage": "https://www.wheresthatip.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheresthatip/wheresthatip-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/wheresthatip/wheresthatip-cli/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
