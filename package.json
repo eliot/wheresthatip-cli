@@ -27,10 +27,10 @@
   "homepage": "https://www.wheresthatip.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wheresthatip/wheresthatip-cli"
+    "url": "https://github.com/eliot/wheresthatip-cli"
   },
   "bugs": {
-    "url": "https://github.com/wheresthatip/wheresthatip-cli/issues"
+    "url": "https://github.com/eliot/wheresthatip-cli/issues"
   },
   "engines": {
     "node": ">=14.0.0"
