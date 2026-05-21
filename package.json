@@ -1,6 +1,6 @@
 {
   "name": "wheresthatip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Look up IP address geolocation from the command line. Get IP, city, country, ISP, and coordinates instantly.",
   "main": "lib/index.js",
   "bin": {
